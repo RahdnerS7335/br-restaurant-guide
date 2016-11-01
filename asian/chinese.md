@@ -1,8 +1,8 @@
 # Bay Ridge Restaurant Guide
-## Asian --> Chinese
+## Chinese
 ---
 Select a restaurant:
-## Taste of China http://www.brooklyntasteofchina.com/
+## [Taste of China](http://www.brooklyntasteofchina.com/)
 ---
-Back to Asian  
-Start Over
+[Back to Asian](../asian.md)
+[Start Over](../../home.md)
